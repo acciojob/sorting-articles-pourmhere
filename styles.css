@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.img{
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREoRGyXmHy_6aIgXYqWHdOT3KjfmnuSyxypw&s");
+	background-repeat:no-repeat;
+	  background-size: cover;
+}
+ul{
+	
+	background-color:white;
+	li{
+	width:100px;
+	width:220px;
+	padding:10px;
+	background-color:white
+}
+}
+
+.a{
+	width:30%;
+	margin:0 auto;
+	/* background-color:red */
+}
